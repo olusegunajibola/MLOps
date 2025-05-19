@@ -1,0 +1,4 @@
+conda create -n mlops python=3 # conda environment
+conda install numpy pandas matplotlib anaconda::jupyter anaconda::scikit-learn
+
+data source = https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
